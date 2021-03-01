@@ -1,0 +1,9 @@
+1-Maquetter
+2-Interface statique
+3-Interface dynamique
+4-CMS
+
+5-Créer base
+6-Développer composants
+7-Développer backend
+8-Customiser CMS
